@@ -1,6 +1,7 @@
 ## Privacy Policy for Blalo
 Last Updated: February 18, 2025
-Blalo ("we," "us," or "our") operates the Blalo mobile application. This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service.
+
+#### Blalo ("we," "us," or "our") operates the Blalo mobile application. This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service.
 1. Information Collection and Use
 We collect several different types of information to provide and improve our Service to you.
 
